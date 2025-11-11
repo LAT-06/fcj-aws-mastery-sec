@@ -101,3 +101,4 @@
 - **Secrets Manager:**
     
     - Lưu DB credentials → đọc lại qua AWS CLI.
+
